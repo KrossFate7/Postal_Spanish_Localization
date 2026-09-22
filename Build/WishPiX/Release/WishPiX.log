@@ -1,0 +1,250 @@
+﻿  menu.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Menu/menu.cpp")
+  
+  prefline.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Prefs/prefline.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Prefs/prefline.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Prefs/prefline.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Prefs/prefline.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.cpp(104,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.cpp(120,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.cpp(188,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.cpp(315,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.cpp(313,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  prefs.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Prefs/prefs.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Prefs/prefs.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Prefs/prefs.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Prefs/prefs.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "WishPiX/Prefs/prefs.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(211,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(217,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(204,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(224,32): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(287,19): warning C4267: 'inicializando': conversión de 'size_t' a 'int16_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(325,46): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(331,44): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(377,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(382,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(383,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(392,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(403,70): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(419,25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(420,26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(437,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(445,64): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(451,82): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(457,67): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(464,61): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(549,71): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(592,70): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(640,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(652,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(656,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(665,62): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(680,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(696,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(712,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(728,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(744,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(760,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(776,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(792,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(955,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(965,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(970,62): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(989,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1021,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1051,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1081,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1112,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1143,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1174,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1204,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.cpp(1251,61): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  resmgr.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/ResourceManager/resmgr.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\ResourceManager\resmgr.cpp(798,22): warning C4267: 'inicializando': conversión de 'size_t' a 'uint16_t'; posible pérdida de datos
+  spry.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "WishPiX/Spry/spry.cpp")
+  
+  Generando código...
+  WishPiX.vcxproj -> D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\Build\WishPiX\Release\WishPiX.lib

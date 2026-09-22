@@ -1,0 +1,200 @@
+﻿  alphablit.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/alphablit.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/alphablit.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/alphablit.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/alphablit.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/alphablit.cpp")
+  
+  BLIT.CPP
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLIT.cpp")
+  
+  BLITINIT.CPP
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLITINIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLITINIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLITINIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLITINIT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLITINIT.cpp")
+  
+  BLiTT.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLiTT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLiTT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLiTT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLiTT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/BLiTT.cpp")
+  
+  CFNT.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/CFNT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/CFNT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/CFNT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/CFNT.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/CFNT.cpp")
+  
+  Fspr1.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Fspr1.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Fspr1.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Fspr1.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Fspr1.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Fspr1.cpp")
+  
+  FSPR8.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/FSPR8.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/FSPR8.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/FSPR8.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/FSPR8.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/FSPR8.cpp")
+  
+  line.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/line.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/line.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/line.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/line.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/line.cpp")
+  
+  mono.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/mono.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/mono.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/mono.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/mono.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/mono.cpp")
+  
+  Rotate96.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Rotate96.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Rotate96.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Rotate96.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Rotate96.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/Rotate96.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(919,16): warning C4244: 'inicializando': conversión de 'double' a 'int16_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(966,39): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(967,39): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  RPrint.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/RPrint.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/RPrint.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/RPrint.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/RPrint.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/RPrint.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\BLiT\RPrint.cpp(416,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\BLiT\RPrint.cpp(429,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\BLiT\RPrint.cpp(445,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ScaleFlat.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "RSPiX/Src/GREEN/BLiT/ScaleFlat.cpp")
+  
+  Generando código...
+  BLiT.vcxproj -> D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\Build\BLiT\Release\BLiT.lib

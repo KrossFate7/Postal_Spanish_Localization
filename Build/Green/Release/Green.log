@@ -1,0 +1,138 @@
+﻿  hot.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Hot/hot.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Hot/hot.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Hot/hot.cpp")
+  
+  Image.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/Image.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/Image.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/Image.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\Image\Image.cpp(457,24): warning C4244: 'argumento': conversión de 'U64' a 'size_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\Image\Image.cpp(515,37): warning C4244: 'argumento': conversión de 'U64' a 'size_t'; posible pérdida de datos
+  Imagecon.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/Imagecon.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/Imagecon.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/Imagecon.cpp")
+  
+  ImageFile.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/ImageFile.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/ImageFile.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/ImageFile.cpp")
+  
+  InputEvent.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/InputEvent/InputEvent.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/InputEvent/InputEvent.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/InputEvent/InputEvent.cpp")
+  
+  mix.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Mix/mix.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Mix/mix.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Mix/mix.cpp")
+  
+  MixBuf.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Mix/MixBuf.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Mix/MixBuf.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Mix/MixBuf.cpp")
+  
+  pal.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/pal.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/pal.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/pal.cpp")
+  
+  PalFile.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/PalFile.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/PalFile.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Image/PalFile.cpp")
+  
+  sample.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Sample/sample.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Sample/sample.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Sample/sample.cpp")
+  
+  snd.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Snd/snd.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Snd/snd.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Snd/snd.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\Snd\snd.cpp(627,30): warning C4244: '=': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\Snd\snd.cpp(628,26): warning C4244: '=': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\Snd\snd.cpp(774,30): warning C4244: '=': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\GREEN\Snd\snd.cpp(775,26): warning C4244: '=': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+  SndFx.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/SndFx/SndFx.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/SndFx/SndFx.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/SndFx/SndFx.cpp")
+  
+  task.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Task/task.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Task/task.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/GREEN/Task/task.cpp")
+  
+  Generando código...
+  Green.vcxproj -> D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\Build\Green\Release\Green.lib

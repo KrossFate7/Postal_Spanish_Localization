@@ -36,6 +36,9 @@
 #include "RSPiX.h"
 #include "update.h"
 
+#if WITH_STEAMWORKS
+extern void RunSteamworksUpkeep();
+#endif
 
 ////////////////////////////////////////////////////////////////////////////////
 // Macros/types/etc.
@@ -62,6 +65,10 @@ extern void UpdateSystem(void)
 
 	// Do other stuff here.
 	RMix::Do();
+
+#if WITH_STEAMWORKS
+	RunSteamworksUpkeep();
+#endif
 	}
 
 ////////////////////////////////////////////////////////////////////////////////

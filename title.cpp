@@ -406,12 +406,12 @@ static int16_t DisplayImage(	// Returns nothing.
 
 			// Show title image.
 			rspBlit(
-				pimTitle,
-				g_pimScreenBuf,
-				0, 0,
-				sX,
-				sY,
-				pimTitle->m_sWidth,
+				pimTitle, 
+				g_pimScreenBuf, 
+				0, 0, 
+				sX, 
+				sY, 
+				pimTitle->m_sWidth, 
 				pimTitle->m_sHeight);
 
 			// Unlock now that we're done with the composite buffer.

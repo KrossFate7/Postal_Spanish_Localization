@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\Build\\Postal Plus\\Release\\game.obj",
+            "outputs": [
+                ".\\Build\\Postal Plus\\Release\\game.cpp.obj.dt.module.json",
+                ".\\Build\\Postal Plus\\Release\\game.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

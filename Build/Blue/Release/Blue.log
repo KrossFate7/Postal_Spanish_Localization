@@ -1,0 +1,87 @@
+﻿  Bdebug.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bdebug.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bdebug.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bdebug.cpp")
+  
+  Bdisp.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bdisp.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bdisp.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bdisp.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\Bdisp.cpp(255,18): warning C4244: '=': conversión de 'int16_t' a 'U8'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\Bdisp.cpp(256,20): warning C4244: '=': conversión de 'int16_t' a 'U8'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\Bdisp.cpp(257,19): warning C4244: '=': conversión de 'int16_t' a 'U8'; posible pérdida de datos
+  Bjoy.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bjoy.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bjoy.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bjoy.cpp")
+  
+  Bkey.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bkey.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bkey.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bkey.cpp")
+  
+  Bmain.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bmain.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bmain.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bmain.cpp")
+  
+  Bmouse.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bmouse.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bmouse.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bmouse.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\Bmouse.cpp(89,16): warning C4101: 'h': variable local sin referencia
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\Bmouse.cpp(89,13): warning C4101: 'w': variable local sin referencia
+  Bsound.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bsound.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bsound.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Bsound.cpp")
+  
+  Btime.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Btime.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Btime.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "RSPiX/Src/BLUE/unix/Btime.cpp")
+  
+  Generando código...
+  Blue.vcxproj -> D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\Build\Blue\Release\Blue.lib

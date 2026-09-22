@@ -1,0 +1,1127 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(536,5): warning MSB8004: El directorio Intermediate no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Intermediate.
+  aivars.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(452,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CLogTab<usertype>::<unnamed-enum-MaxVars>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(452,4):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(445,7):
+          al compilar la plantilla de clase 'CLogTab'
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\bouy.h(404,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "aivars.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(155,27): warning C4267: '=': conversión de 'size_t' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "aivars.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(155,27):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\aivars.cpp(69,30):
+          Vea la referencia a la creación de una instancia de clase plantilla "CLogTabVar<CPerson *>" que se está compilando
+          D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(138,3):
+          al compilar la función del miembro clase plantilla "CLogTabVar<CPerson *>::CLogTabVar(void)"
+              D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\aivars.cpp(73,4):
+              vea la primera referencia a “CLogTabVar<CPerson *>::CLogTabVar” en “CLogTabVar_GetAction::CLogTabVar_GetAction”
+  
+  band.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(168,9): warning C4603: 'BAND_CPP': no se ha definido la macro o la definición es diferente después del uso del encabezado precompilado
+  (compilando archivo de origen "/band.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(168,9):
+      Agregar la macro al encabezado precompilado en lugar de definirla aquí
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(170,1):
+      uso del encabezado precompilado
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\bouy.h(404,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(499,31): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(500,31): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(610,37): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(610,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(610,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(639,35): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(640,35): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(678,56): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(678,50): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(691,36): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(692,36): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(780,35): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(781,35): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(872,36): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(873,36): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(892,51): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(892,44): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(899,56): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(899,50): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(900,34): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(901,34): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(922,56): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(922,50): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(923,34): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(924,34): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(926,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(933,46): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(935,46): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(955,37): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(978,37): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1013,33): warning C4244: '=': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1016,38): warning C4244: '=': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1017,33): warning C4244: '=': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1106,4): warning C4267: '=': conversión de 'size_t' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1110,4): warning C4267: '=': conversión de 'size_t' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1535,53): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1535,47): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1539,32): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\band.cpp(1540,32): warning C4244: '=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/band.cpp")
+  
+  input.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\input.cpp(1091,49): warning C4244: '+=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\input.cpp(1097,31): warning C4244: '+=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\input.cpp(1137,49): warning C4244: '-=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\input.cpp(1142,31): warning C4244: '-=': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/input.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\input.cpp(1318,29): warning C4244: '=': conversión de 'UINPUT' a 'U32'; posible pérdida de datos
+  (compilando archivo de origen "/input.cpp")
+  
+  localize.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\localize.cpp(185,9): warning C4603: 'LOCALIZE_CPP': no se ha definido la macro o la definición es diferente después del uso del encabezado precompilado
+  (compilando archivo de origen "/localize.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\localize.cpp(185,9):
+      Agregar la macro al encabezado precompilado en lugar de definirla aquí
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\localize.cpp(187,1):
+      uso del encabezado precompilado
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/localize.cpp")
+  
+  menus.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(362,9): warning C4603: 'MENUS_CPP': no se ha definido la macro o la definición es diferente después del uso del encabezado precompilado
+  (compilando archivo de origen "/menus.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(362,9):
+      Agregar la macro al encabezado precompilado en lugar de definirla aquí
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(364,1):
+      uso del encabezado precompilado
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\net.h(90,3): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Net::<unnamed-enum-MaxNumIDs>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(177,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-NOTHING>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(218,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-TooManyPlayers>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(226,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-UserAbortedGame>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(1267,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CNetMsgr::<unnamed-enum-MagicNum>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3899,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3900,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3901,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3902,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3903,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3906,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3907,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3908,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3909,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3910,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3911,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3914,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3915,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3916,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3917,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3918,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3919,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3922,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3923,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3924,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3925,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(3926,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5140,73): warning C4244: 'argumento': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5164,73): warning C4244: 'argumento': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5424,72): warning C4244: 'argumento': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5425,72): warning C4244: 'argumento': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5426,72): warning C4244: 'argumento': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5427,72): warning C4244: 'argumento': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5428,72): warning C4244: 'argumento': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(6279,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/menus.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5355,15): warning C4244: 'argumento': conversión de 'ValType' a 'int32_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5355,15): warning C4244:         with
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5355,15): warning C4244:         [
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5355,15): warning C4244:             ValType=double
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5355,15): warning C4244:         ]
+  (compilando archivo de origen "/menus.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5355,15):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\menus.cpp(5385,11):
+          Vea la referencia a la creación de una instancia de la función plantilla "int16_t SetUpRotationScrollBar<double>(ValType *,Menu *,int16_t,char *)" que se está compilando
+          with
+          [
+              ValType=double
+          ]
+  
+  play.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(334,9): warning C4603: 'PLAY_CPP': no se ha definido la macro o la definición es diferente después del uso del encabezado precompilado
+  (compilando archivo de origen "/play.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(334,9):
+      Agregar la macro al encabezado precompilado en lugar de definirla aquí
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(336,1):
+      uso del encabezado precompilado
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\grip.h(157,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\grip.h(157,28): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\net.h(90,3): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Net::<unnamed-enum-MaxNumIDs>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(177,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-NOTHING>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(218,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-TooManyPlayers>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(226,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-UserAbortedGame>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(1267,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CNetMsgr::<unnamed-enum-MagicNum>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\bouy.h(404,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(452,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CLogTab<usertype>::<unnamed-enum-MaxVars>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/play.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(452,4):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\logtab.h(445,7):
+          al compilar la plantilla de clase 'CLogTab'
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(45,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(47,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(159,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(244,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(2469,76): warning C4244: '=': conversión de 'double' a 'int32_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(2613,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(2624,23): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(2635,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(2636,32): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3487,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3494,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3496,8): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3514,9): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3518,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3481,14): warning C4101: 'sResult': variable local sin referencia
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3627,12): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3626,12): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3969,81): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3969,61): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3969,41): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3973,80): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3973,60): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(3973,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(4321,19): warning C4244: 'inicializando': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(4322,19): warning C4244: 'inicializando': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(4345,60): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(4345,40): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(4918,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5432,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5538,33): warning C4018: '<=': no coinciden signed/unsigned
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5541,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5550,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5699,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5711,44): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5714,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5730,44): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5732,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5708,21): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\play.cpp(5764,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/play.cpp")
+  
+  SampleMaster.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/SampleMaster.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/SampleMaster.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/SampleMaster.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/SampleMaster.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\SampleMaster.cpp(652,24): warning C4244: 'argumento': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+  (compilando archivo de origen "/SampleMaster.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\SampleMaster.cpp(651,75): warning C4244: 'argumento': conversión de 'int16_t' a 'uint8_t'; posible pérdida de datos
+  (compilando archivo de origen "/SampleMaster.cpp")
+  
+  title.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\title.cpp(169,9): warning C4603: 'TITLE_CPP': no se ha definido la macro o la definición es diferente después del uso del encabezado precompilado
+  (compilando archivo de origen "/title.cpp")
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\title.cpp(169,9):
+      Agregar la macro al encabezado precompilado en lugar de definirla aquí
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\title.cpp(171,1):
+      uso del encabezado precompilado
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/title.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/title.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/title.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "/title.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\title.cpp(272,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/title.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\title.cpp(276,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/title.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\title.cpp(286,14): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/title.cpp")
+  
+  Generando código...
+  credits.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(86,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(92,29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(93,22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(80,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(105,29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(106,24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(131,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(125,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "credits.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(546,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(786,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(799,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(826,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(902,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(1111,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(1112,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(1116,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\credits.cpp(1117,18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  game.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\net.h(90,3): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Net::<unnamed-enum-MaxNumIDs>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(177,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-NOTHING>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(218,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-TooManyPlayers>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(226,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'NetMsg::<unnamed-enum-UserAbortedGame>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\netmsgr.h(1267,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CNetMsgr::<unnamed-enum-MagicNum>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "game.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(931,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(941,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(949,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(951,26): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2184,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(1927,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2192,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2194,8): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2188,26): warning C4101: 'tmp': variable local sin referencia
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2315,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2324,27): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2326,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2360,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2399,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2407,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2437,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2444,22): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2446,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2504,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2505,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2506,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2510,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2511,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2516,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2517,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2478,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2486,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2494,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2680,32): warning C4474: "sprintf": se pasaron demasiados argumentos para la cadena de formato
+      D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2680,32):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 3
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2538,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2677,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(2919,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(3091,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(3095,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(3099,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(3466,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(3749,9): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4445,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4471,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4497,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4523,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4549,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4574,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4602,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4644,33): warning C4018: '<=': no coinciden signed/unsigned
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4704,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int16_t'; posible pérdida de datos
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4667,18): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4670,9): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4673,10): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4686,9): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+  main.cpp
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(247,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(253,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\BLUE\unix\UnixSystem.h(259,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(192,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(193,12): warning C4244: '=': conversión de 'S64' a 'S32'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(86,2): warning C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\QuickMath\VectorMath.h(136,9): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefline.h(56,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefsLine::ePrefsLineType' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\WishPiX\Prefs\prefs.h(47,16): warning C4091: 'typedef ': se ha omitido a la izquierda de 'RPrefs::ePrefs' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\settings.h(41,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSettings::<unnamed-enum-MemFileSize>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\StockPile.h(94,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CStockPile::<unnamed-enum-Bullets>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(110,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-InAlpha>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(126,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-OutRendered>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\sprites.h(132,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSprite::<unnamed-enum-PrivInserted>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\thing.h(385,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CThing::<unnamed-enum-CHoodID>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\realm.h(504,4): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CRealm::<unnamed-enum-Standard>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\weapon.h(95,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CWeapon::<unnamed-enum-State_Idle>' cuando no hay ninguna variable declarada
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,32): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\character.h(460,19): warning C4244: 'argumento': conversión de 'double' a 'int16_t'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\RSPiX\Src\ORANGE\Debug\profile.h(299,18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(45,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(47,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(159,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\steam\matchmakingtypes.h(244,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(222,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(224,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(226,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(228,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(230,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(624,17): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(625,28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(633,25): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(645,13): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(647,13): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(659,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\main.cpp(921,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
+D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\game.cpp(4827,1): warning C4172: dirección de devolución de variable local o temporal : title
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1424,5): warning MSB8012: TargetPath(D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\testing\Postal.exe) no coincide con el valor de la propiedad OutputFile de Linker (D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\testing\Postal Plus.exe). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1426,5): warning MSB8012: TargetName(Postal) no coincide con el valor de la propiedad OutputFile de Linker (Postal Plus). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Link.OutputFile).
+  Postal Plus.vcxproj -> D:\Documentos\~Mods\Postal\1\Traducción Español Latino (WIP)\Postal_Spanish_Localization\testing\Postal.exe
